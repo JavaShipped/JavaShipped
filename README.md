@@ -1,4 +1,4 @@
-Hi, I’m Joe I’m interested in UI/UX, game psychology, game design and pizza. I’m proficient in HTML/CSS/JS but always learning more. I work as a UI/UX desginer and do a little video editing and voice acting here and there.
+Hi, I’m Joe. I'm a UX designer for software and web dev, but my passions lie in game psychology, game design and health accessibility. I’m proficient in HTML/CSS/JS but always learning more.
 
 You can look at my various incomplete repos. The on I've finished in the dungeonmasterAI - its pretty cool I think, and in python, which is why its so poorly coded.
 
